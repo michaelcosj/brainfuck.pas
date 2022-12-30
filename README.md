@@ -1,7 +1,7 @@
 # Brainfuck Interpreter in Free Pascal
 
 ## Usage
-Requires Free Pascal Compiler.
+Note: Requires Free Pascal Compiler. <br/><br/>
 Clone the repository, and run these commands: 
   ```sh
     fpc bf.pas -obf
